@@ -1,15 +1,15 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
   <a class="navbar-brand" href="#">Fullstack Software</a>
-  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault" >
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="">Home <span class="sr-only">(current)</span></a>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" routerLink="about" routerLinkActive="active">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="people">People</a>
+        <a class="nav-link" routerLink="people" routerLinkActive="active">People</a>
       </li>
       <!--<li class="nav-item">
         <a class="nav-link disabled" href="#">Disabled</a>

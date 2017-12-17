@@ -9,9 +9,11 @@ import { PeopleService } from 'app/people/people.service';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppNavbarComponent } from './app-navbar/app-navbar.component';
 import { HomeComponent } from './home/home.component';
+import { AboutComponent } from './about/about.component';
 
 export const ROUTES: Routes = [
   { path: '', component: HomeComponent },
+  { path: 'about', component: AboutComponent },
   { path: 'people', component: PeopleComponent }
 ];
 
@@ -20,7 +22,8 @@ export const ROUTES: Routes = [
     AppComponent,
     PeopleComponent,
     AppNavbarComponent,
-    HomeComponent
+    HomeComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
