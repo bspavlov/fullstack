@@ -15,11 +15,11 @@
         <a class="nav-link disabled" href="#">Disabled</a>
       </li> -->
       <li class="nav-item dropdown" ngbDropdown>
-        <a class="nav-link dropdown-toggle" id="dropdown01" ngbDropdownToggle>Category</a>
+        <a class="nav-link dropdown-toggle" id="dropdown01" ngbDropdownToggle>Language</a>
         <div class="dropdown-menu" aria-labelledby="dropdown01" ngbDropdownMenu>
-          <a class="dropdown-item" href="#">Angular</a>
-          <a class="dropdown-item" href="#">React</a>
-          <a class="dropdown-item" href="#">Vue.js</a>
+          <a class="dropdown-item"  (click)="useLanguage('en')">en</a>
+          <a class="dropdown-item"  (click)="useLanguage('de')">de</a>
+         <!-- <a class="dropdown-item" href="#">Vue.js</a> -->
         </div>
       </li>
     </ul>

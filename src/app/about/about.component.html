@@ -1,3 +1,8 @@
-<p>
-  about works!
-</p>
+<div>
+  <!-- translation: translation pipe -->
+  <h1>{{ 'demo.title' | translate }}</h1>
+
+  <!-- translation: directive -->
+  <p [translate]="'demo.text'"></p>
+  <p>{{ 'demo.greeting' | translate:{'name':'Andreas'} }}</p>
+</div>
