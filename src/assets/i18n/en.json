@@ -3,5 +3,25 @@
         "title": "Translation demo",
         "text": "This is a simple demonstration app for ngx-translate",
         "greeting": "Hello {{name}}!"
+    },
+    "home": {
+        "title": "Home"
+    },
+    "about": {
+        "title": "About"
+    },
+    "services": {
+        "title": "Services"
+    },
+    "methodology": {
+        "title": "Methodology"
+    },
+    "team": {
+        "title": "Management"
+    },
+    "language": {
+        "title": "Language",
+        "en": "English",
+        "de": "German"
     }
 }

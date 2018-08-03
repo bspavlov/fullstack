@@ -18,7 +18,11 @@ export class AppNavbarComponent implements OnInit {
 
   useLanguage(language: string) {
     this.translate.use(language);
-}
+  }
+
+  changeLanguage(language) {
+    this.translate.use(language);
+  }
 
 }
 

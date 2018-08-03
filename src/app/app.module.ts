@@ -13,10 +13,14 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppNavbarComponent } from './app-navbar/app-navbar.component';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
+import { ServicesComponent } from './services/services.component';
+import { MethodologyComponent } from './methodology/methodology.component';
 
 export const ROUTES: Routes = [
   { path: '', component: HomeComponent },
   { path: 'about', component: AboutComponent },
+  { path: 'services', component: ServicesComponent },
+  { path: 'methodology', component: MethodologyComponent },
   { path: 'people', component: PeopleComponent }
 ];
 
@@ -26,7 +30,9 @@ export const ROUTES: Routes = [
     PeopleComponent,
     AppNavbarComponent,
     HomeComponent,
-    AboutComponent
+    AboutComponent,
+    ServicesComponent,
+    MethodologyComponent
   ],
   imports: [
     BrowserModule,
