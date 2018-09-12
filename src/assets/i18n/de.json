@@ -16,6 +16,12 @@
     "methodology": {
         "title": "Methodik"
     },
+    "domains": {
+        "title": "Fachgebiete"
+    },
+    "technologies": {
+        "title": "Technologien"
+    },
     "team": {
         "title": "Leitung"
     },

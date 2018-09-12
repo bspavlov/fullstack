@@ -9,6 +9,12 @@ import {TranslateService} from '@ngx-translate/core';
 
 export class AppNavbarComponent implements OnInit {
 
+  navbarOpen = false;
+
+  toggleNavbar() {
+    this.navbarOpen = !this.navbarOpen;
+  }
+
   constructor(private translate: TranslateService) {
     translate.setDefaultLang('en');
   }

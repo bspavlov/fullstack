@@ -1,24 +1,36 @@
-<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top">
   <a class="navbar-brand" href="#">Fullstack Software</a>
-  <div class="collapse navbar-collapse" id="navbarsExampleDefault" >
+  <button class="navbar-toggler" type="button" (click)="toggleNavbar()">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" [ngClass]="{ 'show': navbarOpen }" id="navbarsExampleDefault" >
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
         <a class="nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">{{ 'home.title' | translate }}</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" routerLink="about" routerLinkActive="active">{{ 'about.title' | translate }}</a>
-      </li>
-      <li class="nav-item dropdown" ngbDropdown>
+      <!-- <li class="nav-item dropdown" ngbDropdown>
         <a class="nav-link dropdown-toggle" id="servicesDropdown" ngbDropdownToggle>{{ 'services.title' | translate }}</a>
         <div class="dropdown-menu" aria-labelledby="servicesDropdown" ngbDropdownMenu>
             <a class="dropdown-item" routerLink="methodology" routerLinkActive="active">{{ 'methodology.title' | translate }}</a>
           </div>
+      </li> -->
+      <li class="nav-item">
+          <a class="nav-link" routerLink="services" routerLinkActive="active">{{ 'services.title' | translate }}</a>
+        </li>
+      <li class="nav-item">
+          <a class="nav-link" routerLink="methodology" routerLinkActive="active">{{ 'methodology.title' | translate }}</a>
+        </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="domains" routerLinkActive="active">{{ 'domains.title' | translate }}</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" routerLink="people" routerLinkActive="active">{{ 'team.title' | translate }}</a>
+        <a class="nav-link" routerLink="technologies" routerLinkActive="active">{{ 'technologies.title' | translate }}</a>
       </li>
-      <!--<li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="about" routerLinkActive="active">{{ 'about.title' | translate }}</a>
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" routerLink="people" routerLinkActive="active">{{ 'team.title' | translate }}</a>
       </li> -->
       <li class="nav-item dropdown" ngbDropdown>
         <a class="nav-link dropdown-toggle" id="langDropdown" ngbDropdownToggle>{{ 'language.title' | translate }}</a>

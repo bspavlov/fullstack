@@ -19,6 +19,12 @@
     "team": {
         "title": "Management"
     },
+    "domains": {
+        "title": "Domains of expertise"
+    },
+    "technologies": {
+        "title": "Technologies"
+    },
     "language": {
         "title": "Language",
         "en": "English",
