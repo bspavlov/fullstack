@@ -10,7 +10,7 @@ body {
     padding-top: 50px; 
  }
 
- .services-bg {
+ .source-bg {
     background:url('assets/img/source1.png');
     background-repeat:no-repeat;
     background-size:cover;
@@ -18,7 +18,7 @@ body {
     height:1200px;
 }
 
-.methodology-bg {
+.workplace-bg {
     background:url('assets/img/workplace1.jpg');
     background-repeat:no-repeat;
     background-size:cover;
