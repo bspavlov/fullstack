@@ -5,7 +5,16 @@
         "greeting": "Hallo {{name}}!"
     },
     "home": {
-        "title": "Home"
+        "title": "Home",
+        "h2": "Full-Stack Softwareentwicklung",
+        "h3": "Entwicklung von neuen oder Erweiterung von existierenden Systemen",
+        "h4": "Anforderungsanalyse, Analyse, Systementwurf, Detailierter Entwurf, Implementierung, Testen",
+        "t1": "Langjährige Erfahrung in Softwareentwicklung in verschiedenen Anwendungsbereichen",
+        "t2": "Integration in existierenden Projecten, einschließlich in großtechnischen Legacy-Systeme",
+        "t3": "Neuentwicklung von Softwaresysteme und langfristinge Wartung und Support",
+        "t4": "Auswahl des am besten geeigneten Softwareentwicklungsprozesses je nach projektspezifische Details",
+        "t5": "Wir wissen wie wir mit der Herausforderung der Produktion von hochwerigen Softwareprodukten unter ständig wechselnde Anforderungen umzugehen",
+        "t6": "Termine und Budget streng beachten"
     },
     "about": {
         "title": "Über uns"

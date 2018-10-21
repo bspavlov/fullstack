@@ -5,7 +5,16 @@
         "greeting": "Hello {{name}}!"
     },
     "home": {
-        "title": "Home"
+        "title": "Home",
+        "h2": "Full-Stack Software Development",
+        "h3": "Design new or extend existing software systems",
+        "h4": "Requirements Elicitation, Analysis, System Design, Detailed Design, Implementation, Testing",
+        "t1": "Longtime experience in software development in various application domains",
+        "t2": "Integration into existing projects, including large-scale legacy systems",
+        "t3": "Development of new systems from scratch and long-term maintenance and support",
+        "t4": "Select the most appropriate software development process depending on the project specifics",
+        "t5": "We know how to deal with the challange of building high-quality software systems under constanty changing requirements",
+        "t6": "Strictly considering deadlines and budget"
     },
     "about": {
         "title": "About"
