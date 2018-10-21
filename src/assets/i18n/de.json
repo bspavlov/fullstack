@@ -20,7 +20,14 @@
         "title": "Über uns"
     },
     "services": {
-        "title": "Leistungen"
+        "title": "Leistungen",
+        "h2": "Was wir können",
+        "h3": "Überblick auf unsere Leistingen",
+        "t1": "Integration in existierenden Systemen und Projekten",
+        "t2": "Neuentwicklung auf der Basis von Kundenanforderungen",
+        "t3": "Integration oder Nachbilden von spezifischen Phasen des Softwareentwicklungsprozesses als Leisungsoptimierung, DevOps, Testen, etc.",
+        "t4": "Reverse Engineering von existierenden Systemen",
+        "t5": "Beratung über existierende oder zukünftige Projekte"
     },
     "methodology": {
         "title": "Methodik"

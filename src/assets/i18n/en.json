@@ -20,7 +20,14 @@
         "title": "About"
     },
     "services": {
-        "title": "Services"
+        "title": "Services",
+        "h2": "What we can do",
+        "h3": "Overview of the types of services we provide",
+        "t1": "Integration into existing systems and projects",
+        "t2": "Developing of new systems from scratch based on customer requirements",
+        "t3": "Integration or building up specific phases of the software development cycle like Performance Optimisation, DevOps, Testing, etc.",
+        "t4": "Reverse engineering of existing systems",
+        "t5": "Consulting activities for existing or future projects"
     },
     "methodology": {
         "title": "Methodology"
