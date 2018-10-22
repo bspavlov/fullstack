@@ -59,7 +59,21 @@
         "t12": "CMS"
     },
     "technologies": {
-        "title": "Technologies"
+        "title": "Technologies",
+        "h2": "Technology stack",
+        "h3": "Representative technologies used in our projects",
+        "t1": "Architectural Methods and Styles",
+        "t2": "SOA, Microservices, Message-oriented systems, Enterprise Integration, Multi-tenancy, Scalability",
+        "t3": "Programming Languages",
+        "t4": "Java, Scala, C, C++, C#, PHP, JavaScript",
+        "t5": "Databases & Caching",
+        "t6": "Relational & NoSQL databases, replicated & distributed caches",
+        "t7": "Testing",
+        "t8": "Unit testing, Integration Testing, Automation Testing",
+        "t9": "DevOps",
+        "t10": "Jenkins, Docker, OpenShift, Artifactory",
+        "t11": "Cloud Computing & Big Data",
+        "t12": "Salesforce, AWS, Microsoft Azure, Hadoop"
     },
     "language": {
         "title": "Language",
