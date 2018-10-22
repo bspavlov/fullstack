@@ -17,7 +17,12 @@
         "t6": "Strictly considering deadlines and budget"
     },
     "about": {
-        "title": "About"
+        "title": "About",
+        "h2": "About our team",
+        "t1": "Professionals with each of us having more than 15 years of active working expirience in software projects in various industries. Our strenght is the common working experience and collaboration that we have been sharing working together, and in the same time the unique individual knowledge and specialities, making possibe to cover a broad spectrum of expertise",
+        "c1": "Contact:",
+        "c2": "18 Radi Radev str. Sofia, Bulgaria"
+
     },
     "services": {
         "title": "Services",

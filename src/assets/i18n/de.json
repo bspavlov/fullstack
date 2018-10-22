@@ -13,11 +13,15 @@
         "t2": "Integration in existierenden Projecten, einschließlich in großtechnischen Legacy-Systeme",
         "t3": "Neuentwicklung von Softwaresysteme und langfristinge Wartung und Support",
         "t4": "Auswahl des am besten geeigneten Softwareentwicklungsprozesses je nach projektspezifische Details",
-        "t5": "Wir wissen wie wir mit der Herausforderung der Produktion von hochwerigen Softwareprodukten unter ständig wechselnde Anforderungen umzugehen",
-        "t6": "Termine und Budget streng beachten"
+        "t5": "Wir wissen wie mit der Herausforderung der Produktion von hochwerigen Softwareprodukten bei ständig wechselnden Anforderungen umzugehen",
+        "t6": "Termine und Budget strikt beachten"
     },
     "about": {
-        "title": "Über uns"
+        "title": "Über uns",
+        "h2": "Über unseres Team",
+        "t1": "Wir sind abgeschlossene Informatker mit je mehr als 15 Jahre aktive Berufserfahrung in Softwareprojekten von verschiedenen Industrien. Unsere Stärke ist die gemeinsame Praxiserfahrung und Zusammenarbeit im Laufe der Jahre, aber auch die individuelle Kenntnisse und Spezialitäte, was es uns ermöglicht, einen breiten Spektrum von Kompetezen abzudecken",
+        "c1": "Kontakt:",
+        "c2": "Radi Radev Strasse 18, Sofia, Bulgarien"
     },
     "services": {
         "title": "Leistungen",
