@@ -30,7 +30,13 @@
         "t5": "Beratung über existierende oder zukünftige Projekte"
     },
     "methodology": {
-        "title": "Methodik"
+        "title": "Methodik",
+        "h2": "Komplexitäts- und Unsicherheitsmanagement",
+        "h3": "Prozesse, Methoden und Instrumente je nach spezifischer Projektumgebung auswählen",
+        "t1": "Abschätzen wie und wieviel den Kunden im Prozess einzubeziehen, abhängig von seinem Fachwissen und Entscheidungsmacht",
+        "t2": "Bewertung wieviel Plannung is optimal abhängig von der Berechenbarkeit des Projektes",
+        "t3": "Balancieren zwischen Komplexität, Wartbarkeit und Brauchbarkeit von Softwaremodellen",
+        "t4": "Auswahl der passenden Softwareentwicklungsprozess (XP, Scrum, Waterfall, oder maßgeschneidert) abhängig von Komplexität und Veränderungsgrad"
     },
     "domains": {
         "title": "Fachgebiete"

@@ -30,7 +30,13 @@
         "t5": "Consulting activities for existing or future projects"
     },
     "methodology": {
-        "title": "Methodology"
+        "title": "Methodology",
+        "h2": "Managing of complexity and uncertainty",
+        "h3": "Select processes, methods and tools for specific project environment",
+        "t1": "Evaluate how much and how to involve the client in the process depending on the client's domain knowledge and decision power",
+        "t2": "Estimate how much planning is optimal depending on the project's predictability",
+        "t3": "Try to balance between the complexity, maintainability and usability of software models",
+        "t4": "Choose the appropriate software development process (XP, Scrum, Waterfall, or custom) depending on complexity and change factor"
     },
     "team": {
         "title": "Management"
