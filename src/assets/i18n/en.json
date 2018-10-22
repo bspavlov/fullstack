@@ -42,7 +42,21 @@
         "title": "Management"
     },
     "domains": {
-        "title": "Domains of expertise"
+        "title": "Domains of expertise",
+        "h2": "Application domains",
+        "h3": "Representative industries and domains where we have been active",
+        "t1": "Business Process Management",
+        "t2": "Automotive",
+        "t3": "Semantic Web",
+        "t4": "Business Intelligence",
+        "t5": "eCommerce",
+        "t6": "Automated Decision Management",
+        "t7": "Telecommunications",
+        "t8": "Games",
+        "t9": "Marketing and Sales",
+        "t10": "Dealer Management Systems",
+        "t11": "Online Travel Booking",
+        "t12": "CMS"
     },
     "technologies": {
         "title": "Technologies"

@@ -39,7 +39,21 @@
         "t4": "Auswahl der passenden Softwareentwicklungsprozess (XP, Scrum, Waterfall, oder maßgeschneidert) abhängig von Komplexität und Veränderungsgrad"
     },
     "domains": {
-        "title": "Fachgebiete"
+        "title": "Fachgebiete",
+        "h2": "Anwendungsdomäne",
+        "h3": "Repräsentative Industriebereiche- und Domäne in denen wir Erfahrung haben",
+        "t1": "Business Process Management",
+        "t2": "Autoindustrie",
+        "t3": "Semantic Web",
+        "t4": "Business Intelligence",
+        "t5": "E-Kommerz",
+        "t6": "Automatisiertes Entscheidungsmanagement",
+        "t7": "Telekommunikation",
+        "t8": "Spile",
+        "t9": "Marketing and Vertrieb",
+        "t10": "Handelvarwaltungssysteme",
+        "t11": "Online Travel Booking",
+        "t12": "CMS"
     },
     "technologies": {
         "title": "Technologien"
