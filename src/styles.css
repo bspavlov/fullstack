@@ -12,10 +12,10 @@ body {
 
  .source-bg {
     background:url('assets/img/source2.png');
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;   
     background-size: cover;
     width:100%;
-    height:1200px;
+    min-height: 1200px;
 }
 
 .workplace-bg {
@@ -23,7 +23,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     width:100%;
-    height:1200px;
+    min-height:1200px;
 }
 
 .heading {
@@ -38,6 +38,6 @@ body {
 
 .grid-row-2 {
     text-align: center;
-    color: whitesmoke;
+    color: wheat;
     font-size: 150%;
 }

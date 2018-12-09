@@ -15,6 +15,10 @@ export class AppNavbarComponent implements OnInit {
     this.navbarOpen = !this.navbarOpen;
   }
 
+  hideNavbar() {
+    this.navbarOpen = false;
+  }
+
   constructor(private translate: TranslateService) {
     translate.setDefaultLang('en');
   }
@@ -24,6 +28,7 @@ export class AppNavbarComponent implements OnInit {
 
   useLanguage(language: string) {
     this.translate.use(language);
+    this.navbarOpen = false;
   }
 
   changeLanguage(language) {
