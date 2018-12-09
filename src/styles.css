@@ -28,16 +28,19 @@ body {
 
 .heading {
     color: whitesmoke;
+    word-break: break-word;
 }
 
 .grid-row-1 {
     text-align: center;
     color: whitesmoke;
     font-size: 150%;
+    word-break: break-word;
 }
 
 .grid-row-2 {
     text-align: center;
     color: wheat;
     font-size: 150%;
+    word-break: break-word;
 }
