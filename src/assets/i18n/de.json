@@ -6,13 +6,13 @@
     },
     "home": {
         "title": "Home",
-        "h2": "Full-Stack Softwareentwicklung",
+        "h2": "Full-Stack Software-Entwicklung",
         "h3": "Entwicklung von neuen oder Erweiterung von existierenden Systemen",
         "h4": "Anforderungsanalyse, Analyse, Systementwurf, Detailierter Entwurf, Implementierung, Testen",
-        "t1": "Langjährige Erfahrung in Softwareentwicklung in verschiedenen Anwendungsbereichen",
-        "t2": "Integration in existierenden Projecten, einschließlich in großtechnischen Legacy-Systeme",
-        "t3": "Neuentwicklung von Softwaresysteme und langfristinge Wartung und Support",
-        "t4": "Auswahl des am besten geeigneten Softwareentwicklungsprozesses je nach projektspezifischen Merkmalen",
+        "t1": "Langjährige Erfahrung in Software-Entwicklung in verschiedenen Anwendungsbereichen",
+        "t2": "Integration in existierenden Projekten, einschließlich in großtechnischen Legacy-Systemen",
+        "t3": "Neuentwicklung von Software-Systemen und langfristinge Wartung und Support",
+        "t4": "Auswahl des am besten geeigneten Software-Entwicklungsprozesses je nach projektspezifischen Merkmalen",
         "t5": "Wir wissen wie mit der Herausforderung der Produktion von hochwerigen Softwareprodukten bei ständig wechselnden Anforderungen umzugehen",
         "t6": "Termine und Budget strikt beachten"
     },
@@ -29,7 +29,7 @@
         "h3": "Überblick auf unsere Leistingen",
         "t1": "Integration in existierenden Systemen und Projekten",
         "t2": "Neuentwicklung auf der Basis von Kundenanforderungen",
-        "t3": "Integration oder Nachbilden von spezifischen Phasen des Softwareentwicklungsprozesses als Leisungsoptimierung, DevOps, Testen, etc.",
+        "t3": "Integration oder Nachbilden von spezifischen Phasen des Software-Entwicklungsprozesses als Leisungsoptimierung, DevOps, Testen, etc.",
         "t4": "Reverse Engineering von existierenden Systemen",
         "t5": "Beratung über existierende oder zukünftige Projekte"
     },
@@ -40,7 +40,7 @@
         "t1": "Abschätzen wie und wieviel den Kunden im Prozess einzubeziehen, abhängig von seinem Fachwissen und Entscheidungsmacht",
         "t2": "Bewertung wieviel Plannung is optimal abhängig von der Berechenbarkeit des Projektes",
         "t3": "Balancieren zwischen Komplexität, Wartbarkeit und Brauchbarkeit von Softwaremodellen",
-        "t4": "Auswahl der passenden Softwareentwicklungsprozess (XP, Scrum, Waterfall, oder maßgeschneidert) abhängig von Komplexität und Veränderungsgrad"
+        "t4": "Auswahl der passenden Software-Entwicklungsprozess (XP, Scrum, Waterfall, oder maßgeschneidert) abhängig von Komplexität und Veränderungsgrad"
     },
     "domains": {
         "title": "Fachgebiete",
