@@ -76,8 +76,13 @@
         "t11": "Cloud Computing & Big Data",
         "t12": "Salesforce, AWS, Microsoft Azure, Hadoop"
     },
-    "team": {
-        "title": "Leitung"
+    "nearshoring": {
+        "title": "Nearshoring",
+        "h2": "Nearshoring und Offshoring",
+        "h3": "Langjährige Erfahrung mit europeischen und US Unternehmen",
+        "t1": "Fokalpunkt für Entwickler aus Bulgarien, Serbien und Mazedonien",
+        "t2": "Sehr gute Qualität auf kostengünstige Preise",
+        "t3": "Keine Sprachbarriere für English- und Deuschsprachige Kunden"
     },
     "language": {
         "title": "Sprache",

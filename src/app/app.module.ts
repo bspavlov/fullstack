@@ -17,6 +17,7 @@ import { ServicesComponent } from './services/services.component';
 import { MethodologyComponent } from './methodology/methodology.component';
 import { DomainsComponent } from './domains/domains.component';
 import { TechnologiesComponent } from './technologies/technologies.component';
+import { NearshoringComponent } from './nearshoring/nearshoring.component';
 
 export const ROUTES: Routes = [
   { path: '', component: HomeComponent },
@@ -25,7 +26,7 @@ export const ROUTES: Routes = [
   { path: 'methodology', component: MethodologyComponent },
   { path: 'domains', component: DomainsComponent },
   { path: 'technologies', component: TechnologiesComponent },
-  { path: 'people', component: PeopleComponent }
+  { path: 'nearshoring', component: NearshoringComponent }
 ];
 
 @NgModule({
@@ -38,7 +39,8 @@ export const ROUTES: Routes = [
     ServicesComponent,
     MethodologyComponent,
     DomainsComponent,
-    TechnologiesComponent
+    TechnologiesComponent,
+    NearshoringComponent
   ],
   imports: [
     BrowserModule,

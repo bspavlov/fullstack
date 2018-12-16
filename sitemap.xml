@@ -35,9 +35,15 @@
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://fullstack-software.com//about</loc>
+		<loc>http://fullstack-software.com/about</loc>
 		<lastmod>2018-16-10T12:54:04+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://fullstack-software.com/nearshoring</loc>
+		<lastmod>2018-16-10T12:54:04+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
 	</url>
 </urlset>
