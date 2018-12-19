@@ -1,14 +1,9 @@
 {
-    "demo": {
-        "title": "Übersetzungs-Demo",
-        "text": "Dies ist eine einfache Applikation um die Funktionen von ngx-transalte zu demonstrieren.",
-        "greeting": "Hallo {{name}}!"
-    },
     "home": {
         "title": "Home",
-        "h2": "Full-Stack Software-Entwicklung",
-        "h3": "Entwicklung von neuen oder Erweiterung von existierenden Systemen",
-        "h4": "Anforderungsanalyse, Analyse, Systementwurf, Detailierter Entwurf, Implementierung, Testen",
+        "h1": "Full-Stack Software-Entwicklung",
+        "h2": "Entwicklung von neuen oder Erweiterung von existierenden Systemen",
+        "h3": "Anforderungsanalyse, Analyse, Systementwurf, Detailierter Entwurf, Implementierung, Testen",
         "t1": "Langjährige Erfahrung in Software-Entwicklung in verschiedenen Anwendungsbereichen",
         "t2": "Integration in existierenden Projekten, einschließlich in großtechnischen Legacy-Systemen",
         "t3": "Neuentwicklung von Software-Systemen und langfristinge Wartung und Support",
@@ -18,15 +13,15 @@
     },
     "about": {
         "title": "Über uns",
-        "h2": "Über unseres Team",
+        "h1": "Über unseres Team",
         "t1": "Wir sind abgeschlossene Informatker mit je mehr als 15 Jahre aktive Berufserfahrung in Softwareprojekten von verschiedenen Industrien. Unsere Stärke ist die gemeinsame Praxiserfahrung und Zusammenarbeit im Laufe der Jahre, aber auch die individuelle Kenntnisse und Spezialitäte, was es uns ermöglicht, einen breiten Spektrum von Kompetezen abzudecken",
         "c1": "Kontakt:",
         "c2": "Radi Radev Strasse 18, Sofia, Bulgarien"
     },
     "services": {
         "title": "Leistungen",
-        "h2": "Was wir können",
-        "h3": "Überblick auf unsere Leistingen",
+        "h1": "Was wir können",
+        "h2": "Überblick auf unsere Leistingen",
         "t1": "Integration in existierenden Systemen und Projekten",
         "t2": "Neuentwicklung auf der Basis von Kundenanforderungen",
         "t3": "Integration oder Nachbilden von spezifischen Phasen des Software-Entwicklungsprozesses als Leisungsoptimierung, DevOps, Testen, etc.",
@@ -35,8 +30,8 @@
     },
     "methodology": {
         "title": "Methodik",
-        "h2": "Komplexitäts- und Unsicherheitsmanagement",
-        "h3": "Prozesse, Methoden und Instrumente je nach spezifischer Projektumgebung auswählen",
+        "h1": "Komplexitäts- und Unsicherheitsmanagement",
+        "h2": "Prozesse, Methoden und Instrumente je nach spezifischer Projektumgebung auswählen",
         "t1": "Abschätzen wie und wieviel den Kunden im Prozess einzubeziehen, abhängig von seinem Fachwissen und Entscheidungsmacht",
         "t2": "Bewertung wieviel Plannung is optimal abhängig von der Berechenbarkeit des Projektes",
         "t3": "Balancieren zwischen Komplexität, Wartbarkeit und Brauchbarkeit von Softwaremodellen",
@@ -44,8 +39,8 @@
     },
     "domains": {
         "title": "Fachgebiete",
-        "h2": "Anwendungsdomäne",
-        "h3": "Repräsentative Industriebereiche- und Domäne in denen wir Erfahrung haben",
+        "h1": "Anwendungsdomäne",
+        "h2": "Repräsentative Industriebereiche- und Domäne in denen wir Erfahrung haben",
         "t1": "Business Process Management",
         "t2": "Autoindustrie",
         "t3": "Semantic Web",
@@ -61,8 +56,8 @@
     },
     "technologies": {
         "title": "Technologien",
-        "h2": "Technologie-Stack",
-        "h3": "Рepräsentativе Technologien verwendet in unseren Projekten",
+        "h1": "Technologie-Stack",
+        "h2": "Рepräsentativе Technologien verwendet in unseren Projekten",
         "t1": "Architektur-Methoden and Modelle",
         "t2": "SOA, Microservices, Message-oriented systems, Enterprise Integration, Multi-tenancy, Scalability",
         "t3": "Programmiersprachen",
@@ -78,8 +73,8 @@
     },
     "nearshoring": {
         "title": "Nearshoring",
-        "h2": "Nearshoring und Offshoring",
-        "h3": "Langjährige Erfahrung mit europeischen und US Unternehmen",
+        "h1": "Nearshoring und Offshoring",
+        "h2": "Langjährige Erfahrung mit europeischen und US Unternehmen",
         "t1": "Fokalpunkt für Entwickler aus Bulgarien, Serbien und Mazedonien",
         "t2": "Sehr gute Qualität auf kostengünstige Preise",
         "t3": "Keine Sprachbarriere für English- und Deuschsprachige Kunden"

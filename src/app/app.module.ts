@@ -7,8 +7,6 @@ import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import {HttpClient, HttpClientModule} from '@angular/common/http';
 
 import { AppComponent } from './app.component';
-import { PeopleComponent } from './people/people.component';
-import { PeopleService } from 'app/people/people.service';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppNavbarComponent } from './app-navbar/app-navbar.component';
 import { HomeComponent } from './home/home.component';
@@ -32,7 +30,6 @@ export const ROUTES: Routes = [
 @NgModule({
   declarations: [
     AppComponent,
-    PeopleComponent,
     AppNavbarComponent,
     HomeComponent,
     AboutComponent,
@@ -57,7 +54,6 @@ export const ROUTES: Routes = [
         }
     })
   ],
-  providers: [PeopleService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -1,14 +1,9 @@
 {
-    "demo": {
-        "title": "Translation demo",
-        "text": "This is a simple demonstration app for ngx-translate",
-        "greeting": "Hello {{name}}!"
-    },
     "home": {
         "title": "Home",
-        "h2": "Full-Stack Software Development",
-        "h3": "Design new or extend existing software systems",
-        "h4": "Requirements Elicitation, Analysis, System Design, Detailed Design, Implementation, Testing",
+        "h1": "Full-Stack Software Development",
+        "h2": "Design new or extend existing software systems",
+        "h3": "Requirements Elicitation, Analysis, System Design, Detailed Design, Implementation, Testing",
         "t1": "Longtime experience in software development in various application domains",
         "t2": "Integration into existing projects, including large-scale legacy systems",
         "t3": "Development of new systems from scratch and long-term maintenance and support",
@@ -18,7 +13,7 @@
     },
     "about": {
         "title": "About",
-        "h2": "About our team",
+        "h1": "About our team",
         "t1": "Professionals with each of us having more than 15 years of active working expirience in software projects in various industries. Our strenght is the common working experience and collaboration that we have been sharing working together, and in the same time the unique individual knowledge and specialities, making possibe to cover a broad spectrum of expertise",
         "c1": "Contact:",
         "c2": "18 Radi Radev str. Sofia, Bulgaria"
@@ -26,8 +21,8 @@
     },
     "services": {
         "title": "Services",
-        "h2": "What we can do",
-        "h3": "Overview of the types of services we provide",
+        "h1": "What we can do",
+        "h2": "Overview of the types of services we provide",
         "t1": "Integration into existing systems and projects",
         "t2": "Developing of new systems from scratch based on customer requirements",
         "t3": "Integration or building up specific phases of the software development cycle like Performance Optimisation, DevOps, Testing, etc.",
@@ -36,8 +31,8 @@
     },
     "methodology": {
         "title": "Methodology",
-        "h2": "Managing of complexity and uncertainty",
-        "h3": "Select processes, methods and tools for specific project environment",
+        "h1": "Managing of complexity and uncertainty",
+        "h2": "Select processes, methods and tools for specific project environment",
         "t1": "Evaluate how much and how to involve the client in the process depending on the client's domain knowledge and decision power",
         "t2": "Estimate how much planning is optimal depending on the project's predictability",
         "t3": "Try to balance between the complexity, maintainability and usability of software models",
@@ -48,8 +43,8 @@
     },
     "domains": {
         "title": "Domains of expertise",
-        "h2": "Application domains",
-        "h3": "Representative industries and domains where we have been active",
+        "h1": "Application domains",
+        "h2": "Representative industries and domains where we have been active",
         "t1": "Business Process Management",
         "t2": "Automotive",
         "t3": "Semantic Web",
@@ -65,8 +60,8 @@
     },
     "technologies": {
         "title": "Technologies",
-        "h2": "Technology stack",
-        "h3": "Representative technologies used in our projects",
+        "h1": "Technology stack",
+        "h2": "Representative technologies used in our projects",
         "t1": "Architectural Methods and Styles",
         "t2": "SOA, Microservices, Message-oriented systems, Enterprise Integration, Multi-tenancy, Scalability",
         "t3": "Programming Languages",
@@ -82,8 +77,8 @@
     },
     "nearshoring": {
         "title": "Nearshoring",
-        "h2": "Nearshoring and Offshoring",
-        "h3": "Longtime experience with European and US companies",
+        "h1": "Nearshoring and Offshoring",
+        "h2": "Longtime experience with European and US companies",
         "t1": "A focal point for developers from Bulgaria, Serbia and Macedonia",
         "t2": "Very good quality at competitive prices",
         "t3": "Non-existent language barrier for English and German speaking customers"
