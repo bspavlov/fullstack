@@ -9,3 +9,6 @@
 <IfModule mod_headers.c>
 	Header set Cache-Control "max-age=2628000, public"
 </IfModule>
+RewriteEngine On
+RewriteCond %{HTTPS} on
+RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI}
